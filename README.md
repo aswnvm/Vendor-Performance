@@ -2,7 +2,27 @@
 
 Vendor Performance Analytics is a Python-based project designed to analyze and visualize supplier/vendor performance data using both Python scripts and Power BI dashboards.
 
+- **Statistical Analysis**: Includes hypothesis testing, t-tests, p-values, and confidence intervals to validate insights.
+
 ## 📂 Project Structure
+
+```bash
+./
+├── assets
+│   ├── bg.png
+│   ├── data
+│   └── logs
+├── main.py
+├── notebooks
+│   ├── Exploratory Data Analysis.ipynb
+│   ├── Vendor Performance Analysis.ipynb
+│   └── ingestion_db.ipynb
+├── pyproject.toml
+├── scripts
+│   ├── get_vendor_summary.py
+│   └── ingestion_db.py
+└── README.md
+```
 
 ## 🚀 Features
 
