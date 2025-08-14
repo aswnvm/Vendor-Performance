@@ -31,20 +31,20 @@ uv --version
 
 ```bash
 
-   git clone https://github.com/aswnvm/Vendor-Performance.git
-   cd Vendor-Performance
+git clone https://github.com/aswnvm/Vendor-Performance.git
+cd Vendor-Performance
    ```
 
 2. **Install project packages**
 
 ```bash
-    uv install
+uv install
 ```
 
 3. **Activate virtual environment**
 
 ```bash
-    uv venv
+uv venv
 ```
 
 ## 📦 Requirements
@@ -54,8 +54,6 @@ uv --version
 - UV dependency manager
 - SQLite (bundled with Python)
 
-### Power BI dashboard
-  
 [**Vendor Performance Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiOGM5MzQ5YzktYzI5Mi00MDk3LWE3NmYtY2Y0YmEwOWNiNmYwIiwidCI6IjBmZGYwYzdmLTA2OWMtNDE0YS05MTM2LWQwZjRlYmIzMDliOSJ9)
 
 [**Download Vendor Data CSV**](https://drive.google.com/file/d/1GwPlIw_FqaRvSgmaUZyPBd6pcsJrbhnQ/view?usp=sharing)
