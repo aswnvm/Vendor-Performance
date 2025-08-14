@@ -10,7 +10,6 @@ wheels/
 uv.lock
 # Ignore large files
 inventory.db
-*.csv
 *.pbix
 
 # Virtual environments
