@@ -5,6 +5,17 @@ build/
 dist/
 wheels/
 *.egg-info
+.ipynb_checkpoints/
+.python-versions
+uv.lock
+# Ignore large files
+inventory.db
+*.csv
+*.pbix
 
 # Virtual environments
 .venv
+# Ignore OS files
+.DS_Store
+Thumbs.db
+"@ | Out-File -Encoding utf8 .gitignore
